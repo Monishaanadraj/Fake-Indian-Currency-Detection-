@@ -63,3 +63,53 @@ npm start
 2. **The system processes the image (cropping, resizing, enhancing).**  
 3. **ML model analyzes security features like watermarks, serial numbers, colors, etc.**  
 4. **The app returns a "Real" or "Fake" result with a confidence score.**  
+
+**Homepage:
+A website homepage for identifying fake Indian currency using Convolutional Neural Networks (CNN).
+Navigation bar includes Home and Login options.**
+
+![Picture14](https://github.com/user-attachments/assets/ba9f739a-15d8-4892-ae4d-6e55b75a105e)
+
+
+**Login Page:
+Provides fields for Username and Password.
+Includes a Signup link for new users.**
+
+![Picture15](https://github.com/user-attachments/assets/07c87196-7d49-4917-916f-403e4e64d27e)
+
+
+**Signup Page:
+Allows users to enter Username, Email ID, and Password for account creation.
+Includes a Login link for existing users.**
+
+![Picture16](https://github.com/user-attachments/assets/594498ba-4f04-4691-b8c4-3967652dd885)
+
+
+**Fake Currency Detection Result Page:
+Displays an uploaded Indian currency note for verification.
+Uses CNN to predict whether the currency is Real or Fake.**
+
+![Picture17](https://github.com/user-attachments/assets/5dbd5cbf-2add-427c-ab3d-c5378add8ec0)
+
+![Picture18](https://github.com/user-attachments/assets/613b710f-02d0-4170-acee-919789283a6b)
+
+![Picture19](https://github.com/user-attachments/assets/ab338bc4-68b7-4697-8f9a-fe1cfb9c84d3)
+
+**This page shows performance analysis of the Accuracy , precision , recall and F-measure.**
+![Picture20](https://github.com/user-attachments/assets/f6ff3ea1-1bda-4000-b3ba-b7f6bed5ebdc)
+
+![Picture21](https://github.com/user-attachments/assets/519cdfd4-4060-434e-80d9-cff7e7197c4c)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
